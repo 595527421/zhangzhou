@@ -1,0 +1,20 @@
+{
+  "name": "zhangzhou",
+  "version": "1.0.1",
+  "description": "zhangzhou test",
+  "main": "zhangzhou.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/595527421/zhangzhou.git"
+  },
+  "keywords": [
+    "zhangzhou"
+  ],
+  "author": "yzw",
+  "license": "y",
+  "dependencies": {
+  }
+}
