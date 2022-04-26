@@ -1,6 +1,6 @@
 {
   "name": "zhangzhou",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "zhangzhou test",
   "main": "zhangzhou.js",
   "scripts": {
